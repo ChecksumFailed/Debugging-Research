@@ -27,7 +27,7 @@ If you have never worked with Github visit the [developer site page](https://dev
 1. Choose the *debugging* application
 
 *Getting Started*
-1. In the standard platform view open the provided todo table: System Applications -> Todo -> Todos
+1. In the standard platform view open the provided todo table: In the App Nav: Todo -> Todos
 1. Open **TASK0021233** / **Task One** from the provided records into the form view
 1. Change the state of that record to *Pending* and *Save* the record
 1. Notice the error message
