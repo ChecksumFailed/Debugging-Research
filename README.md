@@ -45,6 +45,7 @@ If you have never worked with Github visit the [developer site page](https://dev
 1. Open **TASK0021580** / **Task Two** in the form view
 1. Change the state of that record to '4 - Low'
 1. Using the script debugger - proceed to debug why you are getting that error and fix it.
+1. Step into is very helpful for getting into the Script Include called on line 3
 1. Stop when 5 minutes has elapsed or you have fixed the problem
 
 1. Stop recording
