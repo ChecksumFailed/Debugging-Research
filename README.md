@@ -1,4 +1,5 @@
 Greetings Developer!
+
 We are looking for some insights to how you go about debugging. This repository contains a scoped application you can install on your PDI and perform an unscripted debugging, and a more directed debugging. We ask that you record your screen and share the recording with us for analysis.
 
 At the end of the instructions there is a short survey where you can answer a few questions and also provide a link to get to your recording. 
