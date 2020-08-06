@@ -52,4 +52,4 @@ If you have never worked with Github visit the [developer site page](https://dev
 1. Stop recording
 
 Upload your recording to some storage service: Youtube, box, vimeo - with at least the permissions of: Anyone with the link
-Fill out this very short survey and include the link to your recording. **https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_9T7kKnl0Fz7CLpb**
+Fill out this very short survey and include the link to your recording. **https://bit.ly/sndebugsurvey**
